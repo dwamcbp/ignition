@@ -16,7 +16,7 @@
         "@fortawesome/free-solid-svg-icons": "^6.1.1",
         "@fortawesome/react-fontawesome": "^0.1.18",
         "@tailwindcss/container-queries": "^0.1.1",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "microbundle": "^0.14.2",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
